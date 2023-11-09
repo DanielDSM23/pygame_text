@@ -12,7 +12,7 @@ pip install pygame paho-mqtt
 ## Utilisation
 
 Exécutez le script principal `run.py` pour lancer l'application. Assurez-vous de remplacer l'adresse IP du broker MQTT dans le code si nécessaire.
-````bash
+```bash
 python run.py
 ```
 ## Fonctionnalités
